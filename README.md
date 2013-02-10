@@ -1,4 +1,0 @@
-PerfectSheetReader
-==================
-
-Sheet reading game
